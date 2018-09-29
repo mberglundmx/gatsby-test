@@ -6,7 +6,7 @@ module.exports = {
     author: 'Dan Shai',
     description: ' Dan Blog ',
     siteUrl:
-      'https://mberglundmx.github.io/gatsby-test/',
+      'https://mberglundmx.github.io/gatsby-test',
   },
   pathPrefix: '/gatsby-test',
   plugins: [
