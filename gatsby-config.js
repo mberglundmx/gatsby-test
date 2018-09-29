@@ -6,9 +6,9 @@ module.exports = {
     author: 'Dan Shai',
     description: ' Dan Blog ',
     siteUrl:
-      'https://github.com/Danshai/gatsbyv2-scientific-blog-machine-learning',
+      'https://mberglundmx.github.io/gatsby-test/',
   },
-  pathPrefix: '/gatsbyv2-scientific-blog-machine-learning',
+  pathPrefix: '/gatsby-test',
   plugins: [
     'gatsby-plugin-react-helmet',
     {
